@@ -1,4 +1,15 @@
-# Essentials
+# Angular - The Complete Guide (2024 Edition) | My Learning Journey
+
+Welcome to my **Angular - The Complete Guide (2024 Edition)** repository! This repo documents my personal learning journey as I work through the *Angular - The Complete Guide (2024 Edition)* course. Here, you'll find the projects, exercises, and code that I’ve built while following along with the course material.
+
+## What's Inside
+- **Practice Projects**: A collection of hands-on projects that cover everything from the basics of Angular to advanced topics like standalone components and signals.
+- **Core Angular Concepts**: My implementations of key concepts such as HTTP requests, routing, form handling, and authentication.
+- **Real-World Applications**: Examples of building responsive, modern, and scalable web applications using Angular.
+- **TypeScript**: My progress in mastering TypeScript as I apply it throughout the course.
+- **Frontend Development Skills**: A demonstration of how I'm gaining a deep understanding of Angular and preparing myself for frontend development.
+
+This repository is a reflection of my progress and understanding of the course, showcasing my journey to mastering Angular in 2024. Feel free to explore and follow along!
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.2.
 
